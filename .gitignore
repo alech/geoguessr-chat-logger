@@ -1,0 +1,2 @@
+# Browser HAR captures — contain GeoGuessr session cookies, never commit
+*.har
